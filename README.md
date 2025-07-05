@@ -47,7 +47,7 @@ Histopathological image analysis plays a vital role in early detection of cancer
 - Google Colab / Jupyter Notebook
 
 ---
-##📊 Expected Outcomes
+## 📊 Expected Outcomes
 
 
 - Achieve a high-accuracy model for lung/colon cancer detection.
