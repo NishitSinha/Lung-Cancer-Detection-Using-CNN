@@ -1,4 +1,4 @@
-# 🧠 Lung and Colon Cancer Image Classification
+# 🧠 Lung Cancer Image Classification
 
 This project focuses on detecting and classifying histopathological images of lung and colon tissues into cancerous and non-cancerous classes using machine learning techniques, particularly Convolutional Neural Networks (CNNs).
 
